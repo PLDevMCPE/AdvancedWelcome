@@ -1,0 +1,12 @@
+name: AdvancedWelcome
+main: Seeker\Main
+version: 1.0
+api: 3.9.3
+author: Seeker
+commands:
+ advwlchelp:
+  description: AdvancedWelcome help command!
+  permisssion: advwlchelp.command
+permissions:
+ advwlchelp.command:
+  default: op
