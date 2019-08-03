@@ -1,0 +1,6 @@
+---
+#Made by Seeker
+#{ign} displays the ign of the player who joined
+#message to be displayed when a player joins a server
+jmessage: "&4§3Hello {ign},Seeker is the best"
+...
